@@ -10,8 +10,6 @@
 - 🌐 **Frontend:** JavaScript, TypeScript, React, HTML, CSS  
 - ⚙️ **Backend:** Node.js, Python, Django  
 - 🗄️ **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
-- ☁️ **DevOps & Cloud:** Docker, Kubernetes, Git/GitHub, AWS, Azure  
-- 🤖 **Inteligência Artificial:** TensorFlow, PyTorch
 
 ---
 
