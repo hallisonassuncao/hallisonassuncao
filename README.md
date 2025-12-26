@@ -8,8 +8,14 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hallisonassuncao&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonassuncao&layout=compact&theme=radical" alt="Top Langs" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hallisonassuncao&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonassuncao&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
 ---
