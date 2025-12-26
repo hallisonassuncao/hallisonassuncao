@@ -37,6 +37,5 @@
 - 🔧 Aplicações de **Machine Learning** e **Deep Learning** em ambientes industriais.  
 - 📊 Uso de **Big Data** para análise preditiva e otimização de processos.  
 - 🤖 Integração de **IA com IoT** e sistemas de automação.  
-- 🌐 Experiência com **cloud computing** (Azure, AWS) para soluções escaláveis.  
 
 ---
