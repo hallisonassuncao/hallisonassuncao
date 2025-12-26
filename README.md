@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Hallison Assunção!
 
-💻 Desenvolvedor.
+💻 Desenvolvedor.  
 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento.  
 
 ---
@@ -25,13 +25,17 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas (versão com skillicons)
-<!-- Se esta versão não carregar, use o fallback logo abaixo -->
+## 🚀 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django,git,github,docker,kubernetes,html,css" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django,git,github,docker,kubernetes,html,css,mysql,postgres,mongodb,azure,aws,tensorflow,pytorch" alt="Tech Icons" />
 </p>
 
 ---
 
+## 🏭 Foco em IA Industrial
+- 🔧 Aplicações de **Machine Learning** e **Deep Learning** em ambientes industriais.  
+- 📊 Uso de **Big Data** para análise preditiva e otimização de processos.  
+- 🤖 Integração de **IA com IoT** e sistemas de automação.  
+- 🌐 Experiência com **cloud computing** (Azure, AWS) para soluções escaláveis.  
 
-
+---
