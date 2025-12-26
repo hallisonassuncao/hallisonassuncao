@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Hallison Assunção!
 
-💻 Desenvolvedor apaixonado por tecnologia, código limpo e inovação.  
+💻 Desenvolvedor   
 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento.  
 
 ---
