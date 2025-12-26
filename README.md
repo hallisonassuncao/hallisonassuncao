@@ -5,26 +5,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hallisonassuncao&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-## 📈 Linguagens mais utilizadas
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonassuncao&layout=compact&hide_border=true&theme=radical&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🌐 Frontend
