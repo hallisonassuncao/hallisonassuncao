@@ -7,25 +7,11 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="Frontend Tech" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django" alt="Backend Tech" />
-</p>
-
-### 🗄️ Bancos de Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,azure" alt="DevOps & Cloud" />
-</p>
+- 🌐 **Frontend:** JavaScript, TypeScript, React, HTML, CSS  
+- ⚙️ **Backend:** Node.js, Python, Django  
+- 🗄️ **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
+- ☁️ **DevOps & Cloud:** Docker, Kubernetes, Git/GitHub, AWS, Azure  
+- 🤖 **Inteligência Artificial:** TensorFlow, PyTorch
 
 ### 🤖 Inteligência Artificial
 <p align="center">
