@@ -13,3 +13,6 @@
 - 🤖 **IA Industrial:** Machine Learning, Deep Learning, Big Data, IoT, Automação  
 
 ---
+
+🎮 16‑bit vibes
+<p align="center"><img src="./assets/retro-16bit.gif" alt="Retro 16-bit animation" width="720" /></p>
