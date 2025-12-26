@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hallison Assunção!
 
-<!--
-**hallisonassuncao/hallisonassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, código limpo e inovação.  
+🌱 Atualmente aprendendo **[coloque aqui a tecnologia que está estudando]**.  
+🚀 Buscando contribuir com projetos open source e compartilhar conhecimento.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias que uso
+- ⚡ JavaScript | React | Node.js  
+- 🐍 Python | Django | Flask  
+- ☁️ Docker | Kubernetes | Cloud  
+
+---
+
+✨ Sempre aberto a novas ideias e colaborações!
