@@ -9,7 +9,7 @@
 
 - 🌐 **Frontend:** JavaScript, TypeScript, React, HTML, CSS  
 - ⚙️ **Backend:** Node.js, Python, Django  
-- 🗄️ **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
+- 🗄️ **Bancos de Dados:** MySQL  
 
 ---
 
