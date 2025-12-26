@@ -13,10 +13,6 @@
 - ☁️ **DevOps & Cloud:** Docker, Kubernetes, Git/GitHub, AWS, Azure  
 - 🤖 **Inteligência Artificial:** TensorFlow, PyTorch
 
-### 🤖 Inteligência Artificial
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Tools" />
-</p>
 ---
 
 ## 🏭 IA Industrial
