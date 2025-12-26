@@ -10,12 +10,7 @@
 - 🌐 **Frontend:** JavaScript, TypeScript, React, HTML, CSS  
 - ⚙️ **Backend:** Node.js, Python, Django  
 - 🗄️ **Bancos de Dados:** MySQL  
-
----
-
-## 🏭 IA Industrial
-- 🔧 Aplicações de **Machine Learning** e **Deep Learning** em ambientes industriais.  
-- 📊 Uso de **Big Data** para análise preditiva e otimização de processos.  
-- 🤖 Integração de **IA com IoT** e sistemas de automação.  
+- ☁️ **DevOps & Cloud:** Docker, Kubernetes, Git/GitHub, AWS, Azure  
+- 🤖 **IA Industrial:** Machine Learning, Deep Learning, Big Data, IoT, Automação  
 
 ---
