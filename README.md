@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Hallison Assunção!
 
 💻 Desenvolvedor.  
-🚀 Buscando contribuir com projetos open source e compartilhar conhecimento.  
 ⚙  Técnico em Redes de Computadores. 
-🛠  Técnico de suporte. 
+🛠 Técnico de suporte. 
+🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
 
 ---
 
