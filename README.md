@@ -3,7 +3,7 @@
 💻 Desenvolvedor.  
 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento.  
 ⚙  Técnico em Redes de Computadores. 
-🛠  Técnico de suporte ( Montagem,Manutenção, Configuração, Sistemas Operacionais e Noções em Eletronica)
+🛠  Técnico de suporte. 
 
 ---
 
