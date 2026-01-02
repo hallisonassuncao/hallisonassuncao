@@ -12,7 +12,7 @@
 - 🌐 **Frontend:** JavaScript, TypeScript, React, HTML, CSS  
 - ⚙️ **Backend:** Node.js, Python, Django  
 - 🗄️ **Bancos de Dados:** MySQL  
-- 🤖 **IA Industrial:** Machine Learning, Deep Learning, Big Data, IoT, Automação  
+- 🤖 **IA Industrial:** Fundamentos de Python para IA, Machine Learning, Data Science, IoT, Automação  
 
 ---
 
