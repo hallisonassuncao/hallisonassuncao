@@ -14,7 +14,7 @@
 - ⚙️ **Backend:** Node.js, Python, Django  
 - 🗄️ **Bancos de Dados:** MySQL  
 - 🤖 **IA Industrial:** Fundamentos de Python para IA, Machine Learning, Data Science, IoT, Automação
-- 🛡️ Cibersegurança: Fundamentos de Segurança da Informação (Cisco)
+- 🛡️ Cibersegurança: Segurança da Informação (Cisco)
 
 ---
 
