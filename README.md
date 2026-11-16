@@ -2,8 +2,8 @@
 
 - 💻 Desenvolvedor.
 - 🔒 Cibersegurança - Cisco Networking Academy  
-- ⚙  Técnico em Redes de Computadores. 
-- 🛠  Técnico de suporte.
+- ⚙ Técnico em Redes de Computadores. 
+- 🛠 Técnico de suporte.
 - 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
 
 ---
