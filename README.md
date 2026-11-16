@@ -2,8 +2,7 @@
 
 - 💻 Desenvolvedor.
 - 🔒 Cibersegurança - Cisco Networking Academy  
-- ⚙ Técnico em Redes de Computadores. 
-- 🛠 Técnico de suporte.
+- ⚙ Técnico em Redes de Computadores e Suporte.
 - 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
 
 ---
@@ -14,7 +13,7 @@
 - ⚙️ **Backend:** Node.js, Python, Django  
 - 🗄️ **Bancos de Dados:** MySQL  
 - 🤖 **IA Industrial:** Fundamentos de Python para IA, Machine Learning, Data Science, IoT, Automação
-- 🛡️ Cibersegurança: Segurança da Informação (Cisco)
+- 🛡️ Cibersegurança: Segurança da Informação, Proteção de Redes e Endpoints
 
 ---
 
