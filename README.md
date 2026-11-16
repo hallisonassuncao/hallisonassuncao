@@ -3,7 +3,7 @@
 - 💻 Desenvolvedor.  
 - ⚙  Técnico em Redes de Computadores. 
 - 🛠  Técnico de suporte.
-- 🔒 Formação em Cibersegurança (Cisco).
+- 🔒 Cibersegurança - Cisco Networking Academy
 - 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
 
 ---
