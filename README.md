@@ -2,7 +2,8 @@
 
 - 💻 Desenvolvedor.  
 - ⚙  Técnico em Redes de Computadores. 
-- 🛠  Técnico de suporte. 
+- 🛠  Técnico de suporte.
+- 🔒 Formação em Cibersegurança (Cisco).
 - 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
 
 ---
