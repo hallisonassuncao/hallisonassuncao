@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Hallison Assunção!
 
-- 💻 Desenvolvedor.
+- 💻 Desenvolvedor Full Stack 
 - 🔒 Cibersegurança - Cisco Networking Academy.
 - ⚙ Técnico em Redes de Computadores e Suporte.
 - 🚀 Buscando contribuir com projetos open source e compartilhar conhecimento. 
