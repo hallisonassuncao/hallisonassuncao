@@ -1,18 +1,18 @@
 
 
 
+
 ---
 
-<h2 align="center">🚀 👾</h2>
+<h2 align="center">🚀 Hallison Space Invaders 👾</h2>
 
 <p align="center">
   <img
     src="./Batalha%20espacial%20pixelada%20em%20a%C3%A7%C3%A3o.gif"
-    width="100%"
+    width="750"
     alt="Hallison Space Invaders"
   />
 </p>
-
 
 
 
