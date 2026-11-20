@@ -2,22 +2,6 @@
 
 
 
----
-
-<h2 align="center">🚀 👾</h2>
-
-<p align="center">
-  <img
-    src="./Batalha%20espacial%20pixelada%20em%20a%C3%A7%C3%A3o.gif"
-    width="750"
-    alt="Hallison Space Invaders"
-  />
-</p>
-
-
-
-
-
 # 👋 Olá, eu sou o Hallison Assunção!
 
 - 💻 Desenvolvedor Full Stack - Senai / IFB
@@ -37,5 +21,13 @@
 - 🛡️ Cibersegurança: Segurança da Informação, Proteção de Redes e Endpoints
 
 ---
+<h2 align="center">🚀 👾</h2>
 
+<p align="center">
+  <img
+    src="./Batalha%20espacial%20pixelada%20em%20a%C3%A7%C3%A3o.gif"
+    width="750"
+    alt="Hallison Space Invaders"
+  />
+</p>
 
