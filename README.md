@@ -7,11 +7,12 @@
 
 <p align="center">
   <img
-    src="./hallison-space.gif"
+    src="./Batalha%20espacial%20pixelada%20em%20a%C3%A7%C3%A3o.gif"
     width="100%"
-    alt="Jogo espacial de Hallison com alienígenas"
+    alt="Hallison Space Invaders"
   />
 </p>
+
 
 
 
