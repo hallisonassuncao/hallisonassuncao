@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Hallison Assunção!
 
-- 💻 Desenvolvedor Full Stack - Senai / IFB
+- 💻 Desenvolvedor Full Stack - IFB / Senai
 - 🔒 Cibersegurança - Cisco Networking Academy.
 - ⚙ Redes de Computadores - IESB
 - 🛠 Técnico de suporte.
