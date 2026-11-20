@@ -1,4 +1,16 @@
+
 ---
+
+<h2 align="center">🦔 Sonic Speed 💙</h2>
+
+<p align="center">
+  <img
+    src="https://i.kym-cdn.com/photos/images/newsfeed/002/545/470/d63.gif"
+    width="320"
+    alt="Sonic, o ouriço azul, correndo"
+  />
+</p>
+
 
 
 
