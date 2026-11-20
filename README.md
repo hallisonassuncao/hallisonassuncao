@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center">🚀 Hallison Space Invaders 👾</h2>
+<h2 align="center">🚀 👾</h2>
 
 <p align="center">
   <img
