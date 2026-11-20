@@ -1,14 +1,6 @@
 ---
 
-<h2 align="center">🦔 Sonic Speed</h2>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    width="400"
-    alt="Animação"
-  />
-</p>
 
 # 👋 Olá, eu sou o Hallison Assunção!
 
